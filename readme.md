@@ -25,7 +25,7 @@ curl -i 'http://127.0.0.1:8088/database?merge=1' \
   -d'{"RUB": 62.15, "EUR": 1.05}'
 ```
 
-Convert an amount from one currency to another:
+Convert an amount from the one currency to another:
 ```
 curl -i 'http://127.0.0.1:8088/convert?from=RUB&to=USD&amount=42'
 ```
