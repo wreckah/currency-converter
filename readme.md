@@ -1,5 +1,7 @@
 ## Currency converter HTTP API service
 
+**Disclaimer:** This is not a production service, just a code challenge for the job interview.
+
 ### Set up
 Install python3 and redis server, then go to project dir and run:
 ```
